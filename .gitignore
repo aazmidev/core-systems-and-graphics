@@ -1,0 +1,12 @@
+# Block your private strategy roadmap
+core-systems-and-graphics-roadmap.md
+
+# Block Windows executable scrap files
+*.exe
+
+# Block Blender temporary auto-saves
+*.blend1
+*.blend2
+
+# Block VS Code local environment junk
+.vscode/
